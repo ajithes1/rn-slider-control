@@ -1,6 +1,6 @@
 {
   "name": "rn-slider-control",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A pure JavaScript <Slider /> component for react-native",
   "main": "lib/Slider.js",
   "files": [
